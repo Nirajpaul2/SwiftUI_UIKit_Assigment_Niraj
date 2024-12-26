@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B4AE8558-01F4-486C-875D-542DDDFFDC90"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7E267A5-935B-49C8-9382-C22AC3F39881"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IlaBankDemoUIKit_Niraj/BottomSheet/Controller/BottomSheetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "init(vehicle:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C7E267A5-935B-49C8-9382-C22AC3F39881 - 776cce48c0da521e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IlaBankDemoUIKit_Niraj.BottomSheetViewController.init(vehicle: Swift.Array&lt;IlaBankDemoUIKit_Niraj.Vehicle&gt;) -&gt; IlaBankDemoUIKit_Niraj.BottomSheetViewController"
+                  moduleName = "IlaBankDemoUIKit_Niraj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/IlaBankDemoUIKit_Niraj/IlaBankDemoUIKit_Niraj/BottomSheet/Controller/BottomSheetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "C7E267A5-935B-49C8-9382-C22AC3F39881 - 776cce48c0da521e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IlaBankDemoUIKit_Niraj.BottomSheetViewController.init(vehicle: Swift.Array&lt;IlaBankDemoUIKit_Niraj.Vehicle&gt;) -&gt; IlaBankDemoUIKit_Niraj.BottomSheetViewController"
+                  moduleName = "IlaBankDemoUIKit_Niraj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/IlaBankDemoUIKit_Niraj/IlaBankDemoUIKit_Niraj/BottomSheet/Controller/BottomSheetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "C7E267A5-935B-49C8-9382-C22AC3F39881 - dd96bd2b921c1555"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IlaBankDemoUIKit_Niraj.BottomSheetViewController.init(vehicle: Swift.Array&lt;IlaBankDemoUIKit_Niraj.Vehicle&gt;) -&gt; IlaBankDemoUIKit_Niraj.BottomSheetViewController"
+                  moduleName = "IlaBankDemoUIKit_Niraj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/IlaBankDemoUIKit_Niraj%202/IlaBankDemoUIKit_Niraj/BottomSheet/Controller/BottomSheetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1695FAF4-62EB-4C72-B158-CB340B08BAFD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IlaBankDemoUIKit_Niraj/BottomSheet/Controller/BottomSheetViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1695FAF4-62EB-4C72-B158-CB340B08BAFD - b54b443183a1242e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IlaBankDemoUIKit_Niraj.BottomSheetViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "IlaBankDemoUIKit_Niraj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/IlaBankDemoUIKit_Niraj/IlaBankDemoUIKit_Niraj/BottomSheet/Controller/BottomSheetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "1695FAF4-62EB-4C72-B158-CB340B08BAFD - b54b443183a1242e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IlaBankDemoUIKit_Niraj.BottomSheetViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "IlaBankDemoUIKit_Niraj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/IlaBankDemoUIKit_Niraj/IlaBankDemoUIKit_Niraj/BottomSheet/Controller/BottomSheetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "1695FAF4-62EB-4C72-B158-CB340B08BAFD - 1fb13752d16761d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IlaBankDemoUIKit_Niraj.BottomSheetViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "IlaBankDemoUIKit_Niraj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/IlaBankDemoUIKit_Niraj%202/IlaBankDemoUIKit_Niraj/BottomSheet/Controller/BottomSheetViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "644">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A10FC8B-DAE3-42AF-B2D0-A7C79F5FFE9B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IlaBankDemoUIKit_Niraj/HomePage/ViewController/LandingPageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "setupSearchBar()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23C0AC79-9834-48A7-9053-EDFCC23D8589"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IlaBankDemoUIKit_Niraj/Screens/BottomSheet/ViewModel/BottomSheetViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "setUpData(vehicles:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6E28E0C-629E-4CB0-9B68-E3F008803551"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IlaBankDemoUIKit_Niraj/Screens/BottomSheet/ViewModel/BottomSheetViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "init(targetCharacters:vehicles:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

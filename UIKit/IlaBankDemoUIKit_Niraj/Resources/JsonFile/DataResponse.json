@@ -1,0 +1,57 @@
+{
+    "vehicles": [
+        {
+            "vehicleType": "Car",
+            "img": "car",
+            "brands": [
+                { "brandName": "Toyota" },
+                { "brandName": "Honda" },
+                { "brandName": "Ford" },
+                { "brandName": "Chevrolet" },
+                { "brandName": "BMW" },
+                { "brandName": "Mercedes-Benz" },
+                { "brandName": "Audi" },
+                { "brandName": "Volkswagen" },
+                { "brandName": "Nissan" },
+                { "brandName": "Hyundai" },
+                { "brandName": "Kia" },
+                { "brandName": "Tesla" },
+                { "brandName": "Mazda" },
+                { "brandName": "Subaru" },
+                { "brandName": "Volvo" },
+                { "brandName": "Lexus" },
+                { "brandName": "Jaguar" },
+                { "brandName": "Porsche" },
+                { "brandName": "Ferrari" },
+                { "brandName": "Lamborghini" }
+            ]
+        },
+        {
+            "vehicleType": "Motorcycle",
+            "img": "motorCycle",
+            "brands": [
+                { "brandName": "Harley-Davidson" },
+                { "brandName": "Yamaha" },
+                { "brandName": "Ducati" },
+                { "brandName": "Kawasaki" },
+                { "brandName": "Honda" },
+                { "brandName": "Suzuki" },
+                { "brandName": "BMW" },
+                { "brandName": "Triumph" },
+                { "brandName": "Royal Enfield" },
+                { "brandName": "KTM" }
+            ]
+        },
+        {
+            "vehicleType": "Truck",
+            "img": "truk",
+            "brands": [
+                { "brandName": "Volvo" },
+                { "brandName": "Scania" },
+                { "brandName": "MAN" },
+                { "brandName": "Kenworth" },
+                { "brandName": "Peterbilt" }
+            ]
+        }
+    ]
+}
